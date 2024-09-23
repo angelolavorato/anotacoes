@@ -43,7 +43,7 @@ Ana ok
 Arley ok
 Fabiolla ok
 Fabricia ok
-Gabriel
+Gabriel área, cálculo de medida de preços, calculo do perímetro de um quadrilatero, medida entre os numero pares entre 2 numeros
 Karine
 Mateus
 Nara
