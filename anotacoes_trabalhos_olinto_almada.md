@@ -2,7 +2,7 @@
 Ana ok
 Arley ok
 Fabiolla ok
-Fabricia 
+Fabricia ok
 Gabriel
 Karine
 Mateus
@@ -12,7 +12,7 @@ Rafael
 Ana ok
 Arley ok
 Fabiolla ok
-Fabricia 
+Fabricia ok
 Gabriel
 Karine
 Mateus
