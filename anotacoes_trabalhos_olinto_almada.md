@@ -10,7 +10,6 @@
 - Nara:
 -Rafael:
 
-
 # INF_BASICA:
 
 - Ana: ok
@@ -31,7 +30,7 @@
 - Fabricia: ok
 - Gabriel: ok
 - Karine: ok
-- Mateus:
+- Mateus: ok
 - Nara:
 - Rafael:
 
@@ -43,7 +42,7 @@
 - Fabricia: ok
 - Gabriel: ok
 - Karine: ok
-- Mateus:
+- Mateus: ok
 - Nara:
 - Rafael:
 
