@@ -6,7 +6,7 @@
 - Fabricia: ok
 - Gabriel: ok
 - Karine: ok
-- Mateus:
+- Mateus: 
 - Nara:
 -Rafael:
 
@@ -19,7 +19,7 @@
 - Fabricia: ok
 - Gabriel: ok
 - Karine: ok
-- Mateus:
+- Mateus: ok
 - Nara:
 - Rafael:
 
@@ -61,6 +61,11 @@
 - Karine: 
   * matematica
   * lendo 3 numeros inteiros 
-- Mateus:
+- Mateus: ok
+  * conSeito 
+  * "ler o preço" tem um erro de declaração
+  * "lendo 3 numeros inteiros e colocando em ordem decrescente utilizando operador nas condicionais" não funciona
+  * "calculo do perímetro" tem erros de declaração iguais aos do gabriel e demais que eu observei
+  * "ler o código e o prço de cinco produtos" contem erros de declaração 
 - Nara:
 - Rafael:
