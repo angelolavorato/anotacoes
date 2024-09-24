@@ -6,8 +6,8 @@
 - Fabricia: ok
 - Gabriel: ok
 - Karine: ok
-- Mateus: 
-- Nara:
+- Mateus: ok
+- Nara: ok
 -Rafael:
 
 # INF_BASICA:
@@ -19,7 +19,7 @@
 - Gabriel: ok
 - Karine: ok
 - Mateus: ok
-- Nara:
+- Nara: ok
 - Rafael:
 
 # INF_BASICA (PENS.COMP.):
@@ -31,7 +31,7 @@
 - Gabriel: ok
 - Karine: ok
 - Mateus: ok
-- Nara:
+- Nara: ok
 - Rafael:
 
 # INOV. SOCIAL:
@@ -43,7 +43,7 @@
 - Gabriel: ok
 - Karine: ok
 - Mateus: ok
-- Nara:
+- Nara: ok
 - Rafael:
 
 # LOGICA DE PROGRAMAÇÃO:
@@ -66,5 +66,7 @@
   * "lendo 3 numeros inteiros e colocando em ordem decrescente utilizando operador nas condicionais" não funciona
   * "calculo do perímetro" tem erros de declaração iguais aos do gabriel e demais que eu observei
   * "ler o código e o prço de cinco produtos" contem erros de declaração 
-- Nara:
+- Nara: ok
+  * "informe 3 numeros inteiros" tem um erro de digitação
+  * "escolha caso" tem erro de digitação
 - Rafael:
