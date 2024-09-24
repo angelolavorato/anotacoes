@@ -21,3 +21,11 @@
 
 ### NOTA: 
   -DENTRO DA MÉDIA
+
+## Nilmar 
+  -resumo Windows
+  -resumo Linux
+
+## Davi
+  -resumo Windows
+  -resumo Linux

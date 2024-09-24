@@ -21,3 +21,12 @@
 
 ### NOTA:
 - total
+
+
+## Nilmar 
+  -resumo ISO/IEC 17799
+  -resumo ISO/IEC 27002
+
+## Davi
+  -resumo ISO/IEC 17799
+  -resumo ISO/IEC 27002
