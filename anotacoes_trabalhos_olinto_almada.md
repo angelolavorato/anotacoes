@@ -44,7 +44,7 @@ Arley ok
 Fabiolla ok
 Fabricia ok
 Gabriel área, cálculo de medida de preços, calculo do perímetro de um quadrilatero, medida entre os numero pares entre 2 numeros
-Karine
+Karine matematica, lendo 3 numeros inteiros, 
 Mateus
 Nara
 Rafael
