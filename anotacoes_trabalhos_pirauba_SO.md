@@ -1,4 +1,4 @@
-# WINDOWS
+# WINDOWS 
 ## APRESENTAÇÃO:
 - falaram muito de maneira geral sem aprofundar no tema proposto
 - apresentação ok na medida do possível
@@ -21,6 +21,10 @@
 
 ### NOTA: 
   -DENTRO DA MÉDIA
+
+AMBOS OS GRUPOS ENVIARAM AS APRESENTAÇÕES
+
+================================================================
 
 ## Nilmar 
   -resumo Windows

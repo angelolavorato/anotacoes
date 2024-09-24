@@ -22,6 +22,8 @@
 ### NOTA:
 - total
 
+AMBOS OS GRUPOS ENVIARAM AS APRESENTAÇÕES
+================================================================
 
 ## Nilmar 
   -resumo ISO/IEC 17799
