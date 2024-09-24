@@ -26,9 +26,9 @@ AMBOS OS GRUPOS ENVIARAM AS APRESENTAÇÕES
 ================================================================
 
 ## Nilmar 
-  -resumo ISO/IEC 17799
-  -resumo ISO/IEC 27002
+  - resumo ISO/IEC 17799
+  - resumo ISO/IEC 27002
 
 ## Davi
-  -resumo ISO/IEC 17799
-  -resumo ISO/IEC 27002
+  - resumo ISO/IEC 17799
+  - resumo ISO/IEC 27002

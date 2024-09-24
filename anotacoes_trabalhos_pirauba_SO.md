@@ -27,9 +27,9 @@ AMBOS OS GRUPOS ENVIARAM AS APRESENTAÇÕES
 ================================================================
 
 ## Nilmar 
-  -resumo Windows
-  -resumo Linux
+  - resumo Windows
+  - resumo Linux
 
 ## Davi
-  -resumo Windows
-  -resumo Linux
+  - resumo Windows
+  - resumo Linux
