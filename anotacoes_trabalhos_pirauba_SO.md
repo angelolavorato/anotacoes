@@ -4,11 +4,11 @@
 - apresentação ok na medida do possível
 
 ## ESCRITA
--trabalho sucinto mas dentro do tema proposto
--contém o que foi pedido 
+- trabalho sucinto mas dentro do tema proposto
+- contém o que foi pedido 
 
 ### NOTA: 
-  -DENTRO DA MÉDIA
+  - DENTRO DA MÉDIA
 
 # LINUX
 ## APRESENTAÇÃO
@@ -17,10 +17,10 @@
   - apresentação ok na medida do possível.
 
 ## ESCRITA
--senti falta de aprofundar mais no tema e ter um trabalho mais sucinto.
+- senti falta de aprofundar mais no tema e ter um trabalho mais sucinto.
 
 ### NOTA: 
-  -DENTRO DA MÉDIA
+  - DENTRO DA MÉDIA
 
 AMBOS OS GRUPOS ENVIARAM AS APRESENTAÇÕES
 
