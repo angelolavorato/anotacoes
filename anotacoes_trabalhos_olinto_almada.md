@@ -24,7 +24,7 @@ Arley  ok
 Fabiolla ok
 Fabricia ok
 Gabriel ok
-Karine
+Karine ok
 Mateus
 Nara
 Rafael
