@@ -1,5 +1,5 @@
 # DEV_JOGOS:
-================================================================
+
 - Ana: ok
 - Arley: ok
 - Fabiolla: ok
@@ -12,6 +12,7 @@
 
 
 # INF_BASICA:
+
 - Ana: ok
 - Arley: ok
 - Fabiolla: ok
@@ -21,8 +22,6 @@
 - Mateus:
 - Nara:
 - Rafael:
-
-================================================================
 
 # INF_BASICA (PENS.COMP.):
 
@@ -36,9 +35,8 @@
 - Nara:
 - Rafael:
 
-================================================================
-
 # INOV. SOCIAL:
+
 - Ana: ok
 - Arley: ok
 - Fabiolla: ok
@@ -48,8 +46,6 @@
 - Mateus:
 - Nara:
 - Rafael:
-
-================================================================
 
 # LOGICA DE PROGRAMAÇÃO:
 
