@@ -53,11 +53,11 @@
 - Arley: ok
 - Fabiolla: ok
 - Fabricia: ok
-- Gabriel: 
-  * área
+- Gabriel: ok
+  * área ok 
   * cálculo de medida de preços
-  * calculo do perímetro de um quadrilatero
-  * medida entre os numero pares entre 2 numeros
+  * calculo do perímetro de um quadrilatero ok +/- 
+  * medida entre os numero pares entre 2 numeros ok 
 - Karine: 
   * matematica
   * lendo 3 numeros inteiros 
