@@ -1,7 +1,7 @@
 # NBR ISO/IEC 17799
 ## apresentação:
 - apresentação está melhor do que a do trabalho de ontem
-- 
+
 
 ## escrita:
 - a parte escrita esta mais completa do que o trabalho anterior
