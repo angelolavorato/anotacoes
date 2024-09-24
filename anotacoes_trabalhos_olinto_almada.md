@@ -8,7 +8,7 @@
 - Karine: ok
 - Mateus: ok
 - Nara: ok
--Rafael:
+-Rafael: ok
 
 # INF_BASICA:
 
@@ -20,7 +20,7 @@
 - Karine: ok
 - Mateus: ok
 - Nara: ok
-- Rafael:
+- Rafael: ok
 
 # INF_BASICA (PENS.COMP.):
 
@@ -32,7 +32,7 @@
 - Karine: ok
 - Mateus: ok
 - Nara: ok
-- Rafael:
+- Rafael: ok
 
 # INOV. SOCIAL:
 
@@ -44,7 +44,7 @@
 - Karine: ok
 - Mateus: ok
 - Nara: ok
-- Rafael:
+- Rafael: ok
 
 # LOGICA DE PROGRAMAÇÃO:
 
@@ -69,4 +69,5 @@
 - Nara: ok
   * "informe 3 numeros inteiros" tem um erro de digitação
   * "escolha caso" tem erro de digitação
-- Rafael:
+- Rafael: ok
+ * "raiz/potencia" tem erro de digitação
