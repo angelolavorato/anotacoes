@@ -13,7 +13,7 @@ Ana ok
 Arley ok
 Fabiolla ok
 Fabricia ok
-Gabriel 
+Gabriel ok
 Karine
 Mateus
 Nara
