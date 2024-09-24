@@ -8,6 +8,9 @@
 - Mateus:
 - Nara:
 -Rafael:
+
+================================================================
+
 # INF_BASICA:
 - Ana: ok
 - Arley: ok
@@ -18,7 +21,11 @@
 - Mateus:
 - Nara:
 - Rafael:
+
+================================================================
+
 # INF_BASICA (PENS.COMP.):
+
 - Ana: ok
 - Arley:  ok
 - Fabiolla: ok
@@ -28,6 +35,9 @@
 - Mateus:
 - Nara:
 - Rafael:
+
+================================================================
+
 # INOV. SOCIAL:
 - Ana: ok
 - Arley: ok
@@ -38,7 +48,11 @@
 - Mateus:
 - Nara:
 - Rafael:
+
+================================================================
+
 # LOGICA DE PROGRAMAÇÃO:
+
 - Ana: ok
 - Arley: ok
 - Fabiolla: ok
