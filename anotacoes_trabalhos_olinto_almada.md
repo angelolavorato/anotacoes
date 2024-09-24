@@ -59,8 +59,8 @@
   * calculo do perímetro de um quadrilatero
   * medida entre os numero pares entre 2 numeros
 - Karine: 
-  *matematica
-  *lendo 3 numeros inteiros 
+  * matematica
+  * lendo 3 numeros inteiros 
 - Mateus:
 - Nara:
 - Rafael:
