@@ -1,9 +1,9 @@
 # NBR ISO/IEC 17799
-## apresentação
+## apresentação:
 
-## escrita
+## escrita:
 
 # ISO/IEC 27002
-## apresentação
+## apresentação:
 
-## escrita
+## escrita:
