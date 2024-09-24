@@ -1,22 +1,22 @@
 # WINDOWS
-## apresentação:
+## APRESENTAÇÃO:
 - falaram muito de maneira geral sem aprofundar no tema proposto
 - apresentação ok na medida do possível
 
-## escrita
+## ESCRITA
 -trabalho sucinto mas dentro do tema proposto
 -contém o que foi pedido 
 
 ### NOTA: 
   -DENTRO DA MÉDIA
-  
+
 # LINUX
-## apresentação
+## APRESENTAÇÃO
   - apresentação um pouco superficial, faltou entrar mais no tema e aprofundar mais no que foi pedido.
   - sofre do mesmo mal da apresentação anterior.
   - apresentação ok na medida do possível.
 
-## escrita
+## ESCRITA
 -senti falta de aprofundar mais no tema e ter um trabalho mais sucinto.
 
 ### NOTA: 
