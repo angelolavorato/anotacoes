@@ -1,4 +1,4 @@
-# WINDOWS 
+# WINDOWS - DAVI, CLEUZA, KAREN, EVERALDO, LAVINIA, LEISE, NILMAR
 ## APRESENTAÇÃO:
 - falaram muito de maneira geral sem aprofundar no tema proposto
 - apresentação ok na medida do possível
@@ -10,7 +10,8 @@
 ### NOTA: 
   - DENTRO DA MÉDIA
 
-# LINUX
+# LINUX - DANIEL, ANA CLAUDIA, WESLEINE, JULIANA, PAULO, VICTORIA, GABRIELA 
+
 ## APRESENTAÇÃO
   - apresentação um pouco superficial, faltou entrar mais no tema e aprofundar mais no que foi pedido.
   - sofre do mesmo mal da apresentação anterior.
